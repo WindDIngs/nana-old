@@ -3,6 +3,5 @@
   "PREFIX": "nhen",
   "COLOR": "#DD474D",
   "OWNERS": ["YOUR_USER_ID"],
-  "LANG": ["english", "chinese", "japanese"],
-  "BANNED": ["lolicon", "shotacon"]
+  "LANG": ["english", "chinese", "japanese"]
 }
